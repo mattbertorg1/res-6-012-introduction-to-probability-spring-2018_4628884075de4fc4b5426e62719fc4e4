@@ -1,0 +1,13 @@
+---
+course_id: res-6-012-introduction-to-probability-spring-2018
+description: 'This resource contains information regarding introduction to probability:
+  The fundamentals: Derived distributions.'
+file_location: /coursemedia/res-6-012-introduction-to-probability-spring-2018/b55a0e10f2ee7379686e856a9fc8ee78_MITRES_6_012S18_L11AS.pdf
+file_type: application/pdf
+layout: pdf
+title: 'Introduction to Probability: Lecture 11: Derived Distributions'
+type: course
+uid: b55a0e10f2ee7379686e856a9fc8ee78
+
+---
+None
